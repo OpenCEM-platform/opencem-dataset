@@ -1,0 +1,2 @@
+id,recorded,start,end,value
+30,1757803465,1757775600,1757776800,"{ ""inverter"": 1,""device"": ""workstation1"", ""source"": ""manual entry"",""textual_description"": ""The hardware configuration is:CPU: Intel XEON GOLD 6526Y; GPU: NVIDIA RTX 2000. I will download CUDA and cudnn on this device to get prepared for some future experiments.""}"
