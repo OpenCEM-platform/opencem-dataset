@@ -1,0 +1,4 @@
+id,recorded,start,end,value
+10,1722074400,1722160800,1722240000,"{ ""inverter"": 1,""device"": ""workstation1"", ""source"": ""manual entry"",""textual_description"": ""Tomorrow I will run a CPU-intensive, multi-core numeric robustness test for a day.""}"
+11,1722117600,1722243600,1722409200,"{ ""inverter"": 1,""device"": ""workstation1"", ""source"": ""manual entry"",""textual_description"": ""In the evening, I will run a CPU-intensive, multi-core numeric robustness test for two days.""}"
+12,1722371292,1722371292,1722384000,"{ ""inverter"": 1,""device"": ""workstation1"", ""source"": ""workstation1_log"",""textual_description"": ""Unexpected reboot.""}"
