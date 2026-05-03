@@ -25,16 +25,15 @@ repository.
 
 | Metric | Value |
 | --- | --- |
-| Measurement rows | 1,798,079 |
-| Context records | 14,995 |
-| Measurement coverage | 2025-07-14 05:53:32 UTC to 2026-04-03 04:01:22 UTC |
-| Context coverage | 2024-07-27 10:00:00 UTC to 2026-01-11 06:28:04 UTC |
-| Measurement days | 230 unique UTC dates |
-| Context days | 74 unique UTC dates |
+| Measurement rows | 4,021,653 |
+| Context records | 30,009 |
+| Measurement coverage | 2025-07-12 21:31:35 UTC to 2026-04-12 02:29:20 UTC |
+| Context coverage | 2024-07-27 18:00:00 UTC to 2026-01-11 14:28:04 UTC |
+| Measurement days | 243 unique UTC dates |
 | Measurement interval | Median 13 seconds per inverter |
 | Inverters | 2 |
 | Measurement columns | 82 |
-| Repository data size | About 418 MB |
+| Repository data size | About 855MB |
 
 ## Repository Layout
 
